@@ -1,9 +1,9 @@
 # Breast Cancer Classification 🎗️
-Python
-Machine Learning
-License
+![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--learn-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-A machine learning project to classify breast cancer tumors as malignant or benign using various ML algorithms.
+A machine learning project to classify breast cancer tumors as **malignant** or **benign** using various ML algorithms.
 
 ## 📌 Overview
 This project implements different machine learning models to predict breast cancer based on the Wisconsin Breast Cancer Dataset. The goal is to compare the performance of various classification algorithms in detecting breast cancer from tumor characteristics.
