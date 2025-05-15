@@ -54,17 +54,11 @@ Features include:
 
 (For each feature, mean, standard error, and worst values are calculated)
 
-
-🏗️ System Architecture
-📦 Component Diagram
-
-
-
-┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐  
-│   Data Ingestion │───▶│  Feature Store  │───▶│  Model Serving  │  
-└─────────────────┘     └─────────────────┘     └─────────────────┘  
-                                      ▼                     ▼  
-                               ┌─────────────┐     ┌─────────────────┐  
-                               │  Training   │     │  REST API       │  
-                               │  Pipeline   │     │  (FastAPI)      │  
-                               └─────────────┘     └─────────────────┘  
+## 🧠 How It Works
+### 🔍 Data Flow Pipeline
+graph TD  
+    A[Raw Cytology Images] --> B[Feature Extraction]  
+    B --> C[Data Preprocessing]  
+    C --> D[Model Training]  
+    D --> E[Prediction API]  
+    E --> F[Clinical Dashboard]  
