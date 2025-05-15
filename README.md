@@ -1,7 +1,6 @@
 # Breast Cancer Classification 🎗️
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--learn-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 A machine learning project to classify breast cancer tumors as **malignant** or **benign** using various ML algorithms.
 
