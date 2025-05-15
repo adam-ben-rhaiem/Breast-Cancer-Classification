@@ -56,5 +56,5 @@ Features include:
 
 ## 🧠 How It Works
 ### 🔍 Data Flow Pipeline
-![image](https://github.com/deepseek_mermaid_20250515_fb42c7.png)
+![image](deepseek_mermaid_20250515_fb42c7.png)
  
