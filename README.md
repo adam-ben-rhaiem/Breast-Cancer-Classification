@@ -58,7 +58,7 @@ Features include:
 ### 🔍 Data Flow Pipeline
 
 <div align="center">
-  <img src="deepseek_mermaid_20250515_fb42c7.png" style="width:20%; max-width:1000px;" alt="Description">
+  <img src="deepseek_mermaid_20250515_fb42c7.png" style="width:40%; max-width:1000px;" alt="Description">
 </div>
 
  
