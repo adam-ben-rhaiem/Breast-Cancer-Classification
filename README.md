@@ -53,3 +53,15 @@ Features include:
 - Fractal dimension
 
 (For each feature, mean, standard error, and worst values are calculated)
+
+
+🏗️ System Architecture
+📦 Component Diagram
+┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐  
+│   Data Ingestion │───▶│  Feature Store  │───▶│  Model Serving  │  
+└─────────────────┘     └─────────────────┘     └─────────────────┘  
+                                      ▼                     ▼  
+                               ┌─────────────┐     ┌─────────────────┐  
+                               │  Training   │     │  REST API       │  
+                               │  Pipeline   │     │  (FastAPI)      │  
+                               └─────────────┘     └─────────────────┘  
