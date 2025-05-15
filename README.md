@@ -56,9 +56,5 @@ Features include:
 
 ## 🧠 How It Works
 ### 🔍 Data Flow Pipeline
-graph TD  
-    A[Raw Cytology Images] --> B[Feature Extraction]  
-    B --> C[Data Preprocessing]  
-    C --> D[Model Training]  
-    D --> E[Prediction API]  
-    E --> F[Clinical Dashboard]  
+![image](https://github.com/deepseek_mermaid_20250515_fb42c7.png)
+ 
