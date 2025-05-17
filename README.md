@@ -53,7 +53,7 @@ Features include:
 
 🚀 IX. Model Deployment
 
-<div align="center">
+<div>
   <img src="Images/streamlit.png" style="width:25%; max-width:1000px;" alt="Description">
 </div>
 
