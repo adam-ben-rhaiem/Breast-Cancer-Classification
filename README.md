@@ -56,5 +56,6 @@ Features include:
 <div>
   <img src="Images/streamlit.png" style="width:25%; max-width:1000px;" alt="Description">
 </div>
+
 - An open-source Python framework designed to streamline the creation and sharing of stunning machine learning and data science web apps.
  
