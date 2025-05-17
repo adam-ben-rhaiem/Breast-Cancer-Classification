@@ -9,23 +9,9 @@ This project implements different machine learning models to predict breast canc
 
 ## 🚀 Features
 - Data preprocessing (handling missing values, feature scaling)
-
 - Exploratory Data Analysis (EDA) with visualizations
-
-- Multiple ML models implemented:
-
-- Logistic Regression
-
-- K-Nearest Neighbors (KNN)
-
-- Support Vector Machine (SVM)
-
-- Random Forest
-
-- XGBoost
-
+- Multiple ML models implemented: Logistic Regression, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Random Forest, XGBoost
 - Model evaluation (accuracy, precision, recall, F1-score, ROC curves)
-
 - Feature importance analysis
 
 ## 📊 Dataset
