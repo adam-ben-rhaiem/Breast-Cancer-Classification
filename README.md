@@ -58,4 +58,6 @@ Features include:
 </div>
 
 - An open-source Python framework designed to streamline the creation and sharing of stunning machine learning and data science web apps.
- 
+
+
+ The model is deployed using Streamlit, providing an intuitive and user-friendly interface for seamless breast cancer image classification
