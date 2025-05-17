@@ -51,13 +51,10 @@ Features include:
 
 - Fractal dimension
 
-(For each feature, mean, standard error, and worst values are calculated)
-
-## 🧠 How It Works
-### 🔍 Data Flow Pipeline
+🚀 IX. Model Deployment
 
 <div align="center">
-  <img src="Workflow Diagram.png" style="width:25%; max-width:1000px;" alt="Description">
+  <img src="Images/streamlit.png">
 </div>
 
  
