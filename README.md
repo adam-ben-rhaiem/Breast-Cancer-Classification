@@ -7,7 +7,7 @@ A machine learning project to classify breast cancer tumors as **malignant** or 
 ## 📌 Overview
 This project implements different machine learning models to predict breast cancer based on the Wisconsin Breast Cancer Dataset. The goal is to compare the performance of various classification algorithms in detecting breast cancer from tumor characteristics.
 
-## 🚀 Features
+## ✨ Features
 - Data preprocessing (handling missing values, feature scaling)
 - Exploratory Data Analysis (EDA) with visualizations
 - Multiple ML models implemented: Logistic Regression, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Random Forest, XGBoost
