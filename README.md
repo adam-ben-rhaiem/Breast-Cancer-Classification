@@ -29,28 +29,13 @@ This project implements different machine learning models to predict breast canc
 - Feature importance analysis
 
 ## 📊 Dataset
-The dataset contains 569 samples with 32 features (ID, diagnosis, and 30 real-valued features computed from digitized images of cell nuclei).
-
-Features include:
-
-- Radius
-
-- Texture
-
-- Perimeter
-
-- Area
-
-- Smoothness
-
-- Compactness
-
-- Concavity
-
-- Symmetry
-
-- Fractal dimension
-
+- Dataset Characteristics: Multivariate
+- Subject Area: Health and Medicine
+- Associated Tasks: Classification
+- Feature Type: Real
+- Number of Instances: 569
+- Number of Features: 30
+- Source:  [Breast Cancer Wisconsin (Diagnostic)](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic) 
 ## 🚀 Model Deployment
 
 <div>
